@@ -14,3 +14,5 @@ Issues:
  - I can't figure out how to use git in VS Code
 
  I am using the github desktop app. I don't really know how to type inside of this file there, so I am opening it through vs code instead. I will not think about it too much right now.
+
+ I don't understand how to make a branch.
