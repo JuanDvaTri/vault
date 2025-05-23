@@ -1,0 +1,1 @@
+In the first section, I'll be using the tool **gobuster**. It'll brute force *URL, DNS subdomains, etc.*
