@@ -9,3 +9,6 @@
 
 I am trying to follow along with Marco Bonzanini's guide on mining twitter data with Python.  
 The purpose of this is to help with my understanding of the language. I believe project based learning is the best way to learn. 
+
+
+In step one I am going to be 

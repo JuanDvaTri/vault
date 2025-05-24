@@ -1,6 +1,6 @@
 
 def main():
-    print("This is a test file for web scraping.")
+    print("This is a test file.")
     print("This is my rifle! There are many like it, but this one is mine.")
     print("My rifle is my best friend. It is my life. I must master it as I must master my life.")
     print("Without me, my rifle is useless. Without my rifle, I am useless.")
