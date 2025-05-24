@@ -34,14 +34,15 @@ for page_num in range(0,6):
      for headline in headlines:      # the loop only prints headlines that contain the word "ukraine"
         text = headline.text
         if 'ukraine' in text.lower():
-            file.write(f"##Found the following: {text}\n")  # prints the headline text
+            file.write(f"## Found the following: {text}  \n\n")  # prints the headline text
         else:
-            file.write(f"##No headlines found containing 'ukraine' on this page.\n")
+            file.write(f"## No headlines found containing 'ukraine' on this page.  \n\n")
 
 
 print("Scraping completed. Check the generated markdown files for the headlines.")
 # This script scrapes the BBC news website for headlines related to Ukraine and saves them in markdown files.
 
+# okay this shit works whatever
 
 
 
